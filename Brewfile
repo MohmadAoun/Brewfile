@@ -15,7 +15,6 @@ brew "maven"
 # --- Dev Tools ---
 cask "visual-studio-code"
 cask "android-studio"
-cask "intellij-idea-ce"
 cask "docker"
 cask "postman"
 
@@ -29,3 +28,4 @@ brew "flutter"
 cask "iterm2"
 cask "google-chrome"
 cask "slack"
+cask "protonvpn"
